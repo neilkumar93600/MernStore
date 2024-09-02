@@ -92,7 +92,7 @@ JWT_SECRET=<Your JWT Secret>
 
 ## Deployment
 
-The application is deployed to [Heroku](https://your-deployment-link.herokuapp.com). You can view the live demo [here](https://your-deployment-link.herokuapp.com).
+The application is deployed to [Github]. You can view the live demo [here](https://your-deployment-link.herokuapp.com).
 
 ## Screenshots
 
