@@ -97,7 +97,7 @@ The application is deployed to [Heroku](https://your-deployment-link.herokuapp.c
 ## Screenshots
 
 ### Home Page
-![Home Page](https://your-image-hosting-link.com/home.png)
+![Home Page](Screenshot 2024-09-02 193644.png)
 
 ### Login Page
 ![Login Page](https://your-image-hosting-link.com/login.png)
