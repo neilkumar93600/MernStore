@@ -97,26 +97,26 @@ The application is deployed to [Heroku](https://your-deployment-link.herokuapp.c
 ## Screenshots
 
 ### Home Page
-![Home Page](Screenshot 2024-09-02 193644.png)
+![Home Page](home.png)
 
 ### Login Page
-![Login Page](https://your-image-hosting-link.com/login.png)
+![Login Page](login.png)
 
 ### Register Page
-![Register Page](https://your-image-hosting-link.com/register.png)
+![Register Page](register.png)
 
 ### Dashboard Page
-![Dashboard Page](https://your-image-hosting-link.com/dashboard.png)
+![Dashboard Page](dashboard.png)
 
 ### Add Product Page
-![Add Product Page](https://your-image-hosting-link.com/add-product.png)
+![Add Product Page](add-product.png)
 
 ### Profile Page
-![Profile Page](https://your-image-hosting-link.com/profile.png)
+![Profile Page](profile.png)
 
 ## Demo Video
 
-Watch the demo video of the application running [here](https://your-video-hosting-link.com/demo.mp4).
+Watch the demo video of the application running [here](demo.mp4).
 
 ## Code Quality
 
